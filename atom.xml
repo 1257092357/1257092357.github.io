@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://1257092357.github.io</id>
+    <title>欣悦</title>
+    <updated>2023-05-15T14:19:00.900Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://1257092357.github.io"/>
+    <link rel="self" href="https://1257092357.github.io/atom.xml"/>
+    <subtitle>圣诞快乐！！！</subtitle>
+    <logo>https://1257092357.github.io/images/avatar.png</logo>
+    <icon>https://1257092357.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 欣悦</rights>
+</feed>
